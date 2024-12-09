@@ -1,0 +1,21 @@
+tanggal_produksi,id_produksi,id_produk,jumlah_produksi,waktu,id_mesin,nama_operator
+01/01/2023,PROD-6-0,Product B,406,Night,MC-41,Sophia
+01/02/2023,PROD-6-1,Product C,261,Night,MC-39,Sophia
+01/03/2023,PROD-6-2,Product B,672,Morning,MC-17,Alice
+01/04/2023,PROD-6-3,Product C,789,Morning,MC-1,Daniel
+01/05/2023,PROD-6-4,Product B,652,Afternoon,MC-3,Emma
+01/06/2023,PROD-6-5,Product A,596,Afternoon,MC-41,Alice
+01/07/2023,PROD-6-6,Product D,694,Night,MC-8,Daniel
+01/08/2023,PROD-6-7,Product A,931,Night,MC-8,Emma
+01/09/2023,PROD-6-8,Product C,780,Night,MC-44,John
+01/10/2023,PROD-6-9,Product A,530,Night,MC-23,Olivia
+01/11/2023,PROD-6-10,Product C,611,Afternoon,MC-47,Robert
+01/12/2023,PROD-6-11,Product A,519,Afternoon,MC-4,Michael
+01/13/2023,PROD-6-12,Product B,732,Afternoon,MC-23,Michael
+01/14/2023,PROD-6-13,Product B,171,Afternoon,MC-5,Olivia
+01/15/2023,PROD-6-14,Product A,913,Night,MC-48,Robert
+01/16/2023,PROD-6-15,Product C,277,Afternoon,MC-20,Michael
+01/17/2023,PROD-6-16,Product C,286,Night,MC-12,Sophia
+01/18/2023,PROD-6-17,Product C,509,Night,MC-13,Olivia
+01/19/2023,PROD-6-18,Product C,904,Afternoon,MC-1,Alice
+01/20/2023,PROD-6-19,Product C,346,Afternoon,MC-37,John
